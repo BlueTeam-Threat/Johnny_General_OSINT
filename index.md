@@ -1,6 +1,5 @@
 <html lang="en-US">
   <head>
-    < img src="meu_logo_preview.png">
     <title>OSINT</title>
     <meta charset="UTF-8">
     <meta name="keywords" content="OSINT, OPEN SOURCE, INTELLIGENCE, OPEN SOURCE INTELLIGENCE, OSINT DOJO, OSINT TOOLS, OSINT RESOURCES, HOW TO OSINT, LEARN OSINT, OSINT FOR BEGINNERS">
